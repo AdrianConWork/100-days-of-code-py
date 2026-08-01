@@ -20,3 +20,8 @@ print(True)
 print(False)
 
 
+# Print out the 4 different data types
+print(type("sdasd"))
+print(type(123))
+print(type(123.3))
+print(type(True))
